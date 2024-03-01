@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpileum_web=self.webpackChunkpileum_web||[]).push([[512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing PileumConnect","permalink":"/blog/introducing-pileum-connect","unlisted":false}]}')}}]);

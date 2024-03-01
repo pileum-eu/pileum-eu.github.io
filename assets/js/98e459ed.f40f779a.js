@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpileum_web=self.webpackChunkpileum_web||[]).push([[172],{9256:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/ethereum","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

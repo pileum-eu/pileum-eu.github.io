@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpileum_web=self.webpackChunkpileum_web||[]).push([[420],{7424:e=>{e.exports=JSON.parse('{"label":"eip712","permalink":"/blog/tags/eip-712","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
